@@ -1,6 +1,5 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to Steve's slide!"
 ---
-# Top level heading
 Use the left arrow to go back!
